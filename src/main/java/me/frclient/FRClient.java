@@ -1,4 +1,4 @@
-package me.frclient;
+
 
 import org.bukkit.*;
 import org.bukkit.entity.*;
