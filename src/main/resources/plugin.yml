@@ -1,0 +1,6 @@
+name: FRClient
+version: 1.0
+main: me.frclient.FRClient
+api-version: 1.20
+author: FR_Developer
+description: FR Client 繁體中文全功能控制台
